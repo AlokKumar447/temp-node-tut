@@ -1,0 +1,6 @@
+
+#  in this file we mention which file or folder we want to be ignored by the git while 
+# uploading on the github   
+
+/node_modules
+/content/big.txt
